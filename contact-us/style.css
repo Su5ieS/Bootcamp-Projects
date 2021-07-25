@@ -5,7 +5,8 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  text-align: right;
+  text-indent: 80%;
+  word-spacing: 30px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
